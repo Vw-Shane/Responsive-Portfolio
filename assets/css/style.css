@@ -1,0 +1,133 @@
+.Htainer{
+	width: 100%;
+	height: 88px;
+	background-color:white;
+
+
+}
+
+.Hwidth{
+
+width:960px;
+height: 80px;
+margin-left: 150px;
+padding-bottom: 0px;
+}
+
+h1{
+float: left;
+	background-color: #4aaaa5;
+	color: white;
+	padding: 15px}
+
+.Three{
+float: right;
+color: grey;
+margin-top: 50px;
+}
+
+.Mtainer{
+	width: 560px;
+	margin-left: 150px;
+	background-color: white;
+	margin-top: 30px;
+
+}
+
+.SubTainer{
+margin-left: 50px;
+background-color:white;
+
+height: auto;
+
+}
+
+.AbtHead{
+	font:;
+	font-size: 30px;
+	content: 50px;
+	color: #4aaaa5;
+	border-bottom: 2px solid;
+	border-color: grey;
+	background-color: white;
+}
+
+p{
+color:grey;
+
+}
+
+.ProfilePic{
+float: left;
+margin-top: 75px;
+padding: 20px;
+}
+
+.MainCon{
+float: right;
+position: relative;
+left:275px;
+top: -410px;
+margin-top: 20px;
+}
+
+.ConHead{
+
+	font-size: 20px;
+	content: 50px;
+	color: #4aaaa5;
+	border-bottom: 2px solid;
+	border-color: grey;
+	background-color: white;
+	padding-bottom: 10px;
+}
+
+
+.ThreeLinks{
+padding-top: 25px;
+background-color: white;
+
+}
+
+
+footer{margin-top: 10%;
+	padding-top: 30px;
+	text-align: center;
+	background-color: grey;
+	border-top: 4px solid;
+	border-color: #4aaaa5;
+	color:white;}
+
+img.resize {
+  max-width:50px;
+  max-height:50px;
+  float: left;
+}
+img.resize2 {
+  max-width:100px;
+  max-height:100px;
+  float: left;
+}
+
+img.resize3{
+	max-width:200px;
+  max-height:200px;
+}
+.pic{
+	float:left;
+	margin-top: 75px;
+	padding: 20px;
+}
+
+body { 
+	background-color: #aaa;
+        background-image:url(../images/cork-wallet.png);
+
+}/*not sure why this doesn't work*/
+.clearfix {
+	clear: both;
+	content: "  ";
+	display: block;
+}
+
+
