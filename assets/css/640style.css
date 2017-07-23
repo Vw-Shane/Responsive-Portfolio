@@ -1,0 +1,141 @@
+@media screen and (max-width:640px){}
+
+
+.Htainer{
+width: 628px;
+height: 88px;
+background-color:white;
+}
+
+.Hwidth{
+width:85%;
+height: 80px;
+margin-left: 25px;
+padding-bottom: 0px;
+}
+
+h1{
+float: left;
+background-color: #4aaaa5;
+color: white;
+padding: 15px}
+
+.Three{
+float: right;
+color: grey;
+margin-top: 50px;
+margin right: 0px;
+}
+
+.Mtainer{
+width: 628px;
+margin-left: 50px;
+background-color: white;
+margin-top: 30px;
+}
+
+.SubTainer{
+	width:85%;
+	padding: 10%;
+
+background-color:white;
+height: auto;
+}
+
+.ProfilePic{
+float: left;
+
+}
+
+img.resize2 {
+max-width:auto;
+max-height:auto;
+float: left;
+}
+
+p{
+font-size: 24px;
+color:grey;
+}
+
+.AbtHead{
+font:;
+font-size: 30px;
+content: 50px;
+color: #4aaaa5;
+border-bottom: 2px solid;
+border-color: grey;
+background-color: white;
+}
+
+
+
+.MainCon{
+position: relative; top: 200px; left: -5%;
+/*float: left;*/
+width: 85%;
+margin-bottom: 50px;
+
+}
+
+.ConHead{
+font-size: 20px;
+width: 85%;
+
+color: #4aaaa5;
+border-bottom: 2px solid;
+border-color: grey;
+background-color: white;
+padding-bottom: 10px;
+}
+
+
+.ThreeLinks{
+padding-top: 25px;
+background-color: white;
+}
+
+
+footer{margin-top: 50%;
+	margin-bottom: 1%;
+padding-top: 30px;
+padding-bottom: 50px;
+text-align: center;
+background-color: grey;
+border-top: 4px solid;
+border-color: #4aaaa5;
+color:white;
+width: 628px;
+position: relative;
+
+}
+
+img.resize {
+max-width:50px;
+max-height:50px;
+float: left;
+}
+
+img.resize3{
+max-width:200px;
+max-height:200px;
+}
+
+.pic{
+float:left;
+margin-top: 75px;
+padding: 20px;
+}
+
+body { 
+	width: 650px;
+/*background-color: #aaa;*/
+background-image:url(../images/cork-wallet.png);
+}/*not sure why this doesn't work*/
+
+.clearfix {
+clear: both;
+content: "  ";
+display: block;
+}
+}
