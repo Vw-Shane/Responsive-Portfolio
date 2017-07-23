@@ -136,13 +136,13 @@ display: block;
  
 
 .Htainer{
-width: 768px;
+width: 758px;
 height: 88px;
-background-color:red;
+background-color:white;
 }
 
 .Hwidth{
-width:668px;
+width:85%;
 height: 80px;
 margin-left: 25px;
 padding-bottom: 0px;
@@ -169,11 +169,27 @@ margin-top: 30px;
 }
 
 .SubTainer{
-	width:50px;
-margin-left: 50px;
-margin-right: 0px;
+	width:85%;
+	padding: 10%;
+
 background-color:white;
 height: auto;
+}
+
+.ProfilePic{
+float: left;
+
+}
+
+img.resize2 {
+max-width:auto;
+max-height:auto;
+float: left;
+}
+
+p{
+font-size: 24px;
+color:grey;
 }
 
 .AbtHead{
@@ -186,25 +202,20 @@ border-color: grey;
 background-color: white;
 }
 
-p{
-color:grey;
-}
 
-.ProfilePic{
-float: left;
-
-padding: 20px;
-}
 
 .MainCon{
-position: relative; top: 500px;
-float: left;
-width: 45px;
+position: relative; top: 200px; left: -5%;
+/*float: left;*/
+width: 85%;
+margin-bottom: 50px;
+
 }
 
 .ConHead{
 font-size: 20px;
-content: 50px;
+width: 85%;
+
 color: #4aaaa5;
 border-bottom: 2px solid;
 border-color: grey;
@@ -219,25 +230,23 @@ background-color: white;
 }
 
 
-footer{margin-top: 10%;
+footer{margin-top: 50%;
+	margin-bottom: 1%;
 padding-top: 30px;
+padding-bottom: 50px;
 text-align: center;
 background-color: grey;
 border-top: 4px solid;
 border-color: #4aaaa5;
 color:white;
 width: 768px;
+position: relative;
+
 }
 
 img.resize {
 max-width:50px;
 max-height:50px;
-float: left;
-}
-
-img.resize2 {
-max-width:100px;
-max-height:100px;
 float: left;
 }
 
@@ -263,7 +272,7 @@ clear: both;
 content: "  ";
 display: block;
 }
-}
+
 @media screen and (max-width:980px) {
   /* CSS for screens that are 320 pixels or less will be put in this section */
 }
